@@ -1,2 +1,2 @@
 # 单例模式
-![Image text](http://github.com/songwei/Singleton/raw/master/compare.png)
+![Image text](https://github.com/King-David95/Singleton/blob/master/compare.png)
