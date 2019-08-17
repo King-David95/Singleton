@@ -8,9 +8,9 @@ package com.study.singleton;
  */
 public enum Singleton07 {
 
-	/**
-	 * 全局唯一实例（线程安全，且无法通过反射创建对象，会报错）
-	 */
-	INSTANCE;
+    /**
+     * 全局唯一实例（线程安全，且无法通过反射创建对象，会报错）
+     */
+    INSTANCE
 
 }
